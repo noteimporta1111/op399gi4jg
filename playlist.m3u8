@@ -9,8 +9,14 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
 
-#EXTINF:-1  group-title="Bics Extra", El gourmet
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0036
+#EXTINF:-1  group-title="Bics Extra", Misiones Posadas
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0328
+
+#EXTINF:-1  group-title="Bics Extra", Musica retro hit
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0333
+
+
+
 
 #EXTINF:-1  group-title="Bics Extra", Ciudad Magazine
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
