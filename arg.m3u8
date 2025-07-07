@@ -17,14 +17,8 @@ https://www.youtube.com/watch?v=avly0uwZzOE
 #EXTINF:-1 group-title="YouTube", TN (YOUTUBE) 
 https://www.youtube.com/watch?v=cb12KmMMDJA 
  
-#EXTINF:-1 tvg-name="Encuentro Ⓨ Ⓖ" tvg-logo="https://i.imgur.com/IyP2UIx.png" tvg-id="Encuentro.ar" group-title="Argentina",Encuentro Ⓨ Ⓖ 
-https://www.youtube.com/user/encuentro/live 
+
  
-#EXTINF:-1 tvg-name="Pakapaka Ⓨ Ⓖ" tvg-logo="https://i.imgur.com/Q4zaCuM.png" tvg-id="Pakapaka.ar" group-title="Argentina",Pakapaka Ⓨ Ⓖ 
-https://www.youtube.com/user/CanalPakapaka/live 
- 
-#EXTINF:-1 tvg-name="Televisión Pública Ⓨ" tvg-logo="https://i.imgur.com/4hYYpiu.png" tvg-id="TVPublica.ar" group-title="Argentina",Televisión Pública Ⓨ 
-https://www.youtube.com/user/TVPublicaArgentina/live 
  
 #EXTINF:-1 tvg-name="Crónica TV Ⓨ" tvg-logo="https://i.imgur.com/k2Ku8Ib.png" tvg-id="CronicaTV.ar" group-title="Argentina",Crónica TV Ⓨ 
 https://www.youtube.com/c/cronicatv/live 
